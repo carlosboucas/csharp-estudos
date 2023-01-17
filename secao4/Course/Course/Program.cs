@@ -33,18 +33,18 @@ namespace Course
 
             //if(areaX > areaY)
             //{
-            //    Console.WriteLine("A área de X é a maior.");
+            //    Console.WriteLine("Maior área = X");
             //}
             //if(areaY > areaX)
             //{
-            //    Console.WriteLine("A área de Y é a maior.");
+            //    Console.WriteLine("Maior área = Y");
             //}
             //else
             //{
             //    Console.WriteLine("Os dois triânngulos possuem a mesma área.");
             //}
 
-            string mensagem = areaX > areaY ? "A área de X é a maior." : "A área de Y é a maior.";
+            string mensagem = areaX > areaY ? "Maior área = X" : "Maior área = Y";
             Console.WriteLine(mensagem);
 
         }

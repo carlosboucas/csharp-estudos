@@ -1,0 +1,15 @@
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\bin\Debug\net6.0\primeirosExerciciosSalario.exe
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\bin\Debug\net6.0\primeirosExerciciosSalario.deps.json
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\bin\Debug\net6.0\primeirosExerciciosSalario.runtimeconfig.json
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\bin\Debug\net6.0\primeirosExerciciosSalario.dll
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\bin\Debug\net6.0\primeirosExerciciosSalario.pdb
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\primeirosExerciciosSalario.csproj.AssemblyReference.cache
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\primeirosExerciciosSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\primeirosExerciciosSalario.AssemblyInfoInputs.cache
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\primeirosExerciciosSalario.AssemblyInfo.cs
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\primeirosExerciciosSalario.csproj.CoreCompileInputs.cache
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\primeirosExerciciosSalario.dll
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\refint\primeirosExerciciosSalario.dll
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\primeirosExerciciosSalario.pdb
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\primeirosExerciciosSalario.genruntimeconfig.cache
+C:\Projetos\csharpCompleto\secao4\primeirosExerciciosSalario\primeirosExerciciosSalario\obj\Debug\net6.0\ref\primeirosExerciciosSalario.dll

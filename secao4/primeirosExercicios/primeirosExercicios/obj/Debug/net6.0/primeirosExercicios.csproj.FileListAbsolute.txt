@@ -1,0 +1,15 @@
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\bin\Debug\net6.0\primeirosExercicios.exe
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\bin\Debug\net6.0\primeirosExercicios.deps.json
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\bin\Debug\net6.0\primeirosExercicios.runtimeconfig.json
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\bin\Debug\net6.0\primeirosExercicios.dll
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\bin\Debug\net6.0\primeirosExercicios.pdb
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\primeirosExercicios.csproj.AssemblyReference.cache
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\primeirosExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\primeirosExercicios.AssemblyInfoInputs.cache
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\primeirosExercicios.AssemblyInfo.cs
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\primeirosExercicios.csproj.CoreCompileInputs.cache
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\primeirosExercicios.dll
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\refint\primeirosExercicios.dll
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\primeirosExercicios.pdb
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\primeirosExercicios.genruntimeconfig.cache
+C:\Projetos\csharpCompleto\secao4\primeirosExercicios\primeirosExercicios\obj\Debug\net6.0\ref\primeirosExercicios.dll
